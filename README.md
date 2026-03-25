@@ -15,6 +15,7 @@ Bongo Cat is a cute digital pet that lives on your desk and types along with you
 - **Cross-Platform** - **🆕 Now available on Mac!** Windows and macOS support
 - **Open Source** - Complete source code available
 - **Easy Assembly** - No soldering required, around $10 to build
+- **3D printed case** - files available on [MakerWorld](https://makerworld.com/en/models/1654522)
 
 ## 🎉 **NEW: Mac Support Available!** 
 
@@ -206,7 +207,7 @@ Customize your Bongo Cat experience:
 
 ## 🛠️ 3D Printing 
 
-You can download and 3D print the standing case for this project. It contains .step, .stl and .3mf files available in the 3D printing folder of this repo or from MakerWorld.
+You can download and 3D print the standing case for this project. It contains .step, .stl and .3mf files available on [MakerWorld](https://makerworld.com/en/models/1654522)
 
 
 ## 🤝 Contributing
